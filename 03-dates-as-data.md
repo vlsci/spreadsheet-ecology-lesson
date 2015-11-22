@@ -83,7 +83,7 @@ You will notice that when exporting into a text-based format (such as CSV), Exce
 
 Storing dates in YEAR, MONTH, DAY format helps remove this ambiguity. Let's look at this issue a bit closer.
 
-For instance this is a spreadsheet representing insect counts that were taken every few days over the summer, and things went something like this:
+For instance this is a spreadsheet representing insect counts that were taken every few days over the winter, and things went something like this:
 
 ![So, so ambiguous, it's even confusing Excel](fig/6_excel_dates_2.jpg)
 
